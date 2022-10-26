@@ -6,7 +6,7 @@
 
 const Lao = {
   code: [Javascript, HTML, CSS, C#, PHP],
-  askMeAbout:["web dev","linux", "tech", "gunpla",]
+  askMeAbout:["web dev","linux", "tech", "gunpla"],
   techStack: {
      frontEnd: {
             js:["Node","Vue"],
@@ -18,12 +18,12 @@ const Lao = {
      dataBases:["MySql"],
      misc: ["Figma"]
  },
-   funFact: "My curiosity in programming spiked due to a coconut jpg"
+   funFact: "My curiosity in programming spiked due to a coconut jpg."
     
     
-    let loadingSkil l= {
+    let loadingSkill= {
     php: ["Laravel"],
-    data: ["MySQL"
+    data: ["MySQL"}],
   },
   
   
