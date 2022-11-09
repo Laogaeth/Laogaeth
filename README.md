@@ -9,7 +9,8 @@ const Lao = {
   askMeAbout:["web dev","linux", "tech", "gunpla"],
   techStack: {
      frontEnd: {
-            js:["Node","Vue"],
+            js:["React","Vue"]
+            
      },
      backEnd:{
             php: ["Laravel"],
@@ -23,7 +24,7 @@ const Lao = {
     
     let loadingSkill= {
     php: ["Laravel"],
-    data: ["MySQL"],
+    data: ["MySQL"]
   },
   
   
