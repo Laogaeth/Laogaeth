@@ -23,6 +23,7 @@ const Lao = {
     
     
     let loadingSkill= {
+    js:["React"],
     php: ["Laravel"],
     data: ["MySQL"]
   },
