@@ -63,3 +63,4 @@ const Lao = {
 
 ## Snake
 https://github.com/Laogaeth/Laogaeth/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/Laogaeth/Laogaeth/blob/output/github-contribution-grid-snake.gif)
