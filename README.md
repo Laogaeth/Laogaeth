@@ -60,5 +60,4 @@ const Lao = {
 
 <img align="left" alt="boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://github.com/Laogaeth/Laogaeth/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Laogaeth/Laogaeth/blob/output/github-contribution-grid-snake.svg)
