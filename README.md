@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there, my name is Pedro - aka Laogaeth ✌️<br>
-Fullstack-Developer in the making<br>
+Fullstack-Developer in the making
 ```
      const Lao = { 
        code: [Javascript, React, HTML, CSS, C#, PHP],
@@ -10,12 +10,13 @@ Fullstack-Developer in the making<br>
                      js:["React","Vue"]
                 }, 
                 backEnd:{<br>            
-                  php: ["Laravel"],<br>     
+                  php: ["Laravel"],     
                    console.log(php, + "Work in progress")
                 },   
                 dataBases:["MySql", "MariaDB"],
-                   misc: ["Figma,"Inkscape","Gimp","Blender"]<br> },<br>   
-                    funFact: "My curiosity in programming spiked due to a coconut jpg."<br>
+                   misc: ["Figma,"Inkscape","Gimp","Blender"] 
+                   },  
+                    funFact: "My curiosity in programming spiked due to a coconut jpg."
                  }
               }
    
